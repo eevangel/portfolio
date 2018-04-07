@@ -28,9 +28,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+
 Here is an image[Link](https://raw.githubusercontent.com/eevangel/portfolio/test/media/IMG_20180307_104726.jpg)
 
-[Image](https://raw.githubusercontent.com/eevangel/portfolio/test/media/IMG_20180307_104726.jpg)
+
+![Image](https://raw.githubusercontent.com/eevangel/portfolio/test/media/IMG_20180307_104726.jpg)
 
 ### Jekyll Themes
 
